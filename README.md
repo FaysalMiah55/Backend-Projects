@@ -1,6 +1,6 @@
 # Django-Projects
 
-| First Header  | Second Header |
+|     ID        |    Project    |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
