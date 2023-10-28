@@ -1,6 +1,6 @@
 # Django-Projects
 
-|     ID        |    Project    |
-| ------------- | ------------- |
-| Content Cell  | Content Cell     |
-| Content Cell  | Content Cell  |
+|      #        |    Project            |      Description    |
+| ------------- | --------------------- | ------------------- |
+|  1            | FoodBugg              |     Food Manu App   |
+|  2  Cell  | Content Cell          |
