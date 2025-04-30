@@ -1,4 +1,4 @@
-# Django-Projects
+# Backend-Projects
 
 | # |    Project            |      Description    |
 |---| --------------------- | ------------------- |
